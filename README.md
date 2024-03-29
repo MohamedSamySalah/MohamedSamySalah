@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>
+  <p align="center">
+    <img align="center" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='20' role='img' aria-label='Visitor Count'%3E%3Ctitle%3EVisitor Count%3C/title%3E%3Crect width='100%25' height='100%25' fill='%23282828'%3E%3C/rect%3E%3Cg fill='%231E90FF' text-anchor='middle' font-family='Arial, sans-serif' font-size='11'%3E%3Ctext x='50%25' y='50%25' fill='%23ffffff' dy='.35em' dx='-10'%3EVisitor Count:%3C/text%3E%3Ctext x='50%25' y='50%25' fill='%23ffffff' dy='.35em' dx='60'%3E-%3C/text%3E%3Ctext x='50%25' y='50%25' fill='%23ffffff' dy='.35em' dx='80' id='counter'%3EFetching count...%3C/text%3E%3C/g%3E%3C/svg%3E" />
+  </p>
+  <br>
+</div>
+
